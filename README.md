@@ -173,7 +173,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Moosa Wahid**
 - GitHub: [@moosawahid](https://github.com/moosawahid)
-- Portfolio: [Your Portfolio URL]
+- Portfolio: [moosa-wahid.web.app](https://moosa-wahid.web.app)
 
 ---
 
